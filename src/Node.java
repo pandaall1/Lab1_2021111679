@@ -31,7 +31,11 @@ class Node {
         return neighbors;
     }
 }
+<<<<<<< HEAD
 //try
 //TRY TRY TRY
 //try again
 //TWAF
+=======
+//try again AND AGAGIN
+>>>>>>> B2

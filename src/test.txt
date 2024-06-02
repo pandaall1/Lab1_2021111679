@@ -1,6 +1,11 @@
 good afternoon
 good morning
+<<<<<<< HEAD
 good night
 GAFA
 afadfa
 AFAFDFAERGA
+=======
+another change
+ALL IN
+>>>>>>> B2
